@@ -2,8 +2,8 @@ import random
 from snake import *
 
 # Barva glave in repa
-COLOR_HEAD = '#CC00CC'
-COLOR_TAIL = '#CC00CC'
+COLOR_HEAD = '#FFFFFF'
+COLOR_TAIL = '#FFFFFF'
 
 
 
